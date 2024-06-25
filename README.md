@@ -1,1 +1,5 @@
 # Cervical-Cancer-Prediction
+
+In this project, I developed and trained an XGBoost classifier to predict the risk of cervical cancer in individuals. Cervical cancer is a significant health concern, claiming approximately 4,000 lives annually in the U.S. and about 300,000 globally. The dataset used for this analysis comprised 858 patients and included features such as the number of pregnancies, smoking habits, sexually transmitted diseases (STDs), demographic details, and historical medical records.
+
+The analysis revealed that high sexual activity and infection with the Human Papillomavirus (HPV) are critical factors that elevate the risk of cervical cancer. Additionally, the presence of hormones in oral contraceptives, having multiple children, and smoking significantly increase the risk, especially in women already infected with HPV. Moreover, individuals with weakened immune systems, such as those with HIV/AIDS, are at a higher risk of HPV infection and subsequent cervical cancer. These findings underscore the importance of considering lifestyle factors and underlying health conditions in cervical cancer risk assessment and prevention strategies.
